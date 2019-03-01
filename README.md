@@ -24,6 +24,6 @@
   `oil_db` > `brent_vs_landed`
   
 ## Hypothetical use cases for your database
-  Examination of how freight price fluctuation influences the overall cost of crude oil imports. Moreover, if the difference in cost         between landed bbls vs original purchase price is different than the freight cost, one may be able to identify other significant factors   impacting landed cost.
+  Examination of how freight price fluctuation influences the overall cost of crude oil imports. Moreover, if the difference in cost         between landed bbls vs original purchase price varies from the freight cost, it may imply other significant (even unrecognized) factors   impacting landed cost.
 
 
